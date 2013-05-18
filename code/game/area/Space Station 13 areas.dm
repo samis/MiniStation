@@ -651,6 +651,10 @@ proc/process_ghost_teleport_locs()
 	name = "\improper Messaging Server Room"
 	icon_state = "server"
 
+/area/aichamber
+    name = "\improper AI Core"
+    icon_state = "ai_chamber"
+
 //Crew
 
 /area/crew_quarters
